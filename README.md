@@ -1,8 +1,8 @@
-# Papers about Kernel Analysis
+# Papers about Kernel Security Testing
 
-## Kernel Static Analysis
+## Kernel Static Testing
 
-### Latest Static Analysis Technique
+### Latest Static Testing Technique
 
 * 2001-OSR: [Bugs as Deviant Behavior: A General Approach to Inferring Errors in Systems Code](https://apps.dtic.mil/sti/pdfs/ADA419584.pdf)
 * 2019-FSE：[Detecting Concurrency Memory Corruption Vulnerabilities](https://dl.acm.org/doi/10.1145/3338906.3338927) — 【[tool-CONVUL](https://github.com/mryancai/ConVul)】
@@ -18,7 +18,7 @@
 * 2019-USENIX：[PeX: A Permission Check Analysis Framework for Linux Kernel](https://www.usenix.org/conference/usenixsecurity19/presentation/zhang-tong)
 * 2018-S&P：[DEADLINE-Precise and Scalable Detection of Double-Fetch Bugs in OS Kernels](http://www-users.cs.umn.edu/~kjlu/papers/deadline.pdf) — 【[note](https://www.jianshu.com/p/e4084b2c7c16)】【[note2](https://www.jianshu.com/p/7e2f15547f1e)】【[note3](https://www.inforsec.org/wp/?p=2550)】【[tool-DEADLINE](https://github.com/sslab-gatech/deadline)】
 
-### Research Trends of Kernel Static Analysis
+### Research Trends of Kernel Static Testing
 
 * 2020-TOCS：[Effective Detection of Sleep-in-atomic-context Bugs in the Linux Kernel](https://dl.acm.org/doi/pdf/10.1145/3381990)
 * 2019-ASPLOS: [DCNS: Automated Detection Of Conservative Non-Sleep Defects in the Linux Kernel](https://hal.inria.fr/hal-02389543/document)
